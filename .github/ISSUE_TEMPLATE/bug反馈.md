@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: BUG反馈
 about: Create a report to help us improve
 title: "[BUG]"
 labels: bug
@@ -14,7 +14,8 @@ assignees: ''
 **反馈内容**
 
 **错误日志**
-[e.g. [log]_(https://example.com/example.log)]
+[e.g. [log](https://example.com/example.log)]
+
 **能否重现**
 能 | 否
 重现步骤:
