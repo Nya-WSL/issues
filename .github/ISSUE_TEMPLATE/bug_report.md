@@ -15,22 +15,11 @@ assignees: ''
 能 | 否
 重现步骤:
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**截图**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+**INFO**
+ - OS: [e.g. Windows | Centos | Ubuntu]
  - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - Version [e.g. v1.0.1 or 1.0.1]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**补充**
