@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG]"
+labels: bug
+assignees: ''
+
+---
+
 **需要反馈的服务**
 名称：
 获取方式：
